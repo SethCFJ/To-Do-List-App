@@ -1,0 +1,15 @@
+.modal {
+  min-height: 200px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: lightgray;
+  border-radius: 10px;
+}
+.button {
+  text-align: center;
+  background-color: #172a3a;
+  border-radius: 5px;
+  color: white;
+}
