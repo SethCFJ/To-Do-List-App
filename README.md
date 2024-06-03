@@ -1,6 +1,7 @@
 # To Do List App
 
 ## Demo & Snippets
+<img width="657" alt="todolistapp" src="https://github.com/SethCFJ/To-Do-List-App/assets/160681650/c34dd006-9ac7-4650-a401-831284fb74a5">
 
 ## Requirements / Purpose
 
